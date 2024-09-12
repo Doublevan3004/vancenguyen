@@ -6,7 +6,7 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - 🔭 Currently working as a **Data Analyst**.
 - 🌱 Learning more about **Data Science** and **Machine Learning**.
 - 💬 Ask me about **Data Analysis**, **Data Visualization**, and **Python**.
-- 📫 Reach me at: [ngocvan@example.com](mailto:ngocvan@example.com).
+- 📫 Reach me at: [ngocvan@example.com](mailto:vancenguyen.work@gmail.com).
 
 ## 🛠️ My Tech Stack
 - **Languages**: Python, SQL, R
