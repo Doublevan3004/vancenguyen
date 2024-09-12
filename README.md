@@ -20,7 +20,8 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vance-nguyen-career/)
-- [Personal Website](https://vcgconsulting.idHi there, I'm Nguyễn Ngọc Văn (Vance Nguyen) 👋 
+- [Personal Website](https://vcgconsulting.id.vn)
+Hi there, I'm Nguyễn Ngọc Văn (Vance Nguyen) 👋 
 
 ## 👨‍💼 About Me
 I'm a passionate **Data Analyst** with a strong interest in data-driven decision making. I enjoy turning raw data into meaningful insights and using analytics to solve real-world problems.
