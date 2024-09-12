@@ -25,4 +25,5 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=white)
+
