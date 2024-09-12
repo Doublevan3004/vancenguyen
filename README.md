@@ -6,13 +6,13 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - 🔭 Currently working as a **Data Analyst**.
 - 🌱 Learning more about **Data Science** and **Machine Learning**.
 - 💬 Ask me about **Data Analysis**, **Data Visualization**, and **Python**.
-- 📫 Reach me at: [ngocvan@example.com](mailto:vancenguyen.work@gmail.com).
+- 📫 Reach me at: [vancenguyen.work@gmail.com](mailto:vancenguyen.work@gmail.com).
 
 ## 🛠️ My Tech Stack
 - **Languages**: Python, SQL, R
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Excel, Google Sheets, Jupyter, VSCode
+- **Tools**: Power BI, Excel, Google Sheets, Jupyter, VSCode
 - **Other**: Git, GitHub, Linux
 
 ## 📊 GitHub Stats
