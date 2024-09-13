@@ -13,7 +13,7 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Power BI, Excel, Google Sheets, Jupyter, VSCode
-- **Other**: Git, GitHub, Linux
+- **Other**: Git, GitHub, Linux, Docker
 
 ## 📊 GitHub Stats
 ![Vance's GitHub stats](https://github-readme-stats.vercel.app/api?username=vancenguyen&show_icons=true&theme=radical)
