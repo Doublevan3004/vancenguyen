@@ -12,9 +12,9 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - **Languages**: Python, SQL, Javascript
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL, MongoDB, Supabase
-- **Automation**: N8N, Power Automate, Worker Bot, Airflow
+- **Automation**: N8N, Power Automate, Worker Bot, App Script, Airflow
 - **Tools**: Power BI, Excel, Google Sheets, Jupyter, VSCode
-- **Cloud**: Google Cloud, AWS (learner), Azure 
+- **Cloud Base**: Google Cloud, AWS (learner), Azure 
 - **Other**: Git, GitHub, Linux, Docker
 
 ## 📊 GitHub Stats
