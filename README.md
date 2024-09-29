@@ -3,16 +3,18 @@ Hi there, I'm Nguyễn Ngọc Văn (Vance Nguyen) 👋
 ## 👨‍💼 About Me
 I'm a passionate **Data Analyst** with a strong interest in data-driven decision making. I enjoy turning raw data into meaningful insights and using analytics to solve real-world problems.
 
-- 🔭 Currently working as a **Data Analyst**.
-- 🌱 Learning more about **Data Science** and **Machine Learning**.
-- 💬 Ask me about **Data Analysis**, **Data Visualization**, and **Python**.
-- 📫 Reach me at: [vancenguyen.work@gmail.com](mailto:vancenguyen.work@gmail.com).
+- 🔭 Currently working as a **Data Analyst**
+- 🌱 Learning more about **Data Engineering** and **Machine Learning**
+- 💬 Ask me about **Data Analysis**, **Data Visualization**, and **Python**
+- 📫 Reach me at: [vancenguyen.work@gmail.com](mailto:vancenguyen.work@gmail.com)
 
 ## 🛠️ My Tech Stack
-- **Languages**: Python, SQL, R
+- **Languages**: Python, SQL, Javascript
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB, Supabase
+- **Automation**: N8N, Power Automate, Worker Bot, Airflow
 - **Tools**: Power BI, Excel, Google Sheets, Jupyter, VSCode
+- **Cloud**: Google Cloud, AWS (learner), Azure 
 - **Other**: Git, GitHub, Linux, Docker
 
 ## 📊 GitHub Stats
