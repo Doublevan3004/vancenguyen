@@ -24,6 +24,7 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - [LinkedIn](https://www.linkedin.com/in/vance-nguyen-career/)
 - [Personal Website](https://vcgconsulting.id.vn)
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -50,3 +51,8 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/VanceX101/VanceX101/output/snake.svg" alt="Snake animation" />
+
+###
+
