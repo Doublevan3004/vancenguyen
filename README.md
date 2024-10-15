@@ -52,7 +52,4 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 
 ###
 
-<img src="https://raw.githubusercontent.com/VanceX101/VanceX101/output/snake.svg" alt="Snake animation" />
-
-###
 
