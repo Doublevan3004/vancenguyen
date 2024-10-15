@@ -24,10 +24,6 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - [LinkedIn](https://www.linkedin.com/in/vance-nguyen-career/)
 - [Personal Website](https://vcgconsulting.id.vn)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=white)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
