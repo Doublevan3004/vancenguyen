@@ -22,7 +22,7 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vance-nguyen-career/)
-- [Personal Website](https://vcgconsulting.id.vn)
+- [Personal Website](https://vancenguyen.vercel.app/)
 
 ###
 
