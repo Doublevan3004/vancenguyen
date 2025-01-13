@@ -24,7 +24,7 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - [LinkedIn](https://www.linkedin.com/in/vance-nguyen-career/)
 - [Personal Website](https://vancenguyen.vercel.app/)
 
-###
+## Technology
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
