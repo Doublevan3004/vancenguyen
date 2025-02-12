@@ -18,7 +18,7 @@ I'm a passionate **Data Analyst** with a strong interest in data-driven decision
 - **Other**: Git, GitHub, Linux, Docker
 
 ## 📊 GitHub Stats
-![Vance's GitHub stats](https://github-readme-stats.vercel.app/api?username=vancenguyen&show_icons=true&theme=radical)
+![Vance's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanceX101&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vance-nguyen-career/)
